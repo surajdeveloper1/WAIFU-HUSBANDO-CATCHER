@@ -6,10 +6,10 @@ class Config(object):
     sudo_users = "6858718276", "6765826972"
     GROUP_ID = -1002316438413
     TOKEN = "7785998273:AAHER3KsHxhsZG2JFlA9uUOfeY0qwFW8i1c"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
+    mongo_url = "mongodb+srv://surajmanikpuri601:<db_password>@cluster0.bmdh2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "https://t.me/harddubber4"
-    UPDATE_CHAT = "Collect_em_support"
+    UPDATE_CHAT = "https://t.me/harddubber4"
     BOT_USERNAME = "@Waifugrab17bot"
     CHARA_CHANNEL_ID = "-1002316438413"
     api_id = 29382589
